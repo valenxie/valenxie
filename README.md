@@ -18,7 +18,7 @@ Hello! I'm Valen, currently a graduate student at UCLA studying Artificial Intel
 
 Check out some of my projects:
 
-1.(In Progress)Neural robotic arm: Brain-machine interfaces (BMIs) that have been successful in controlling robotic arms largely depend on invasive brain implants. They pose surgical risks and are unaffordable to many patients. Therefore, we combine our research in robotics and EEG-based BMI to develop an affordable non-invasive robotic arm. Currently we implementing C++ libraries to ensure smooth communication between our software and the robotic arm.
+1. (In Progress) Neural robotic arm: Brain-machine interfaces (BMIs) that have been successful in controlling robotic arms largely depend on invasive brain implants. They pose surgical risks and are unaffordable to many patients. Therefore, we combine our research in robotics and EEG-based BMI to develop an affordable non-invasive robotic arm. Currently we implementing C++ libraries to ensure smooth communication between our software and the robotic arm.
 2. [Evalute and compare CNN, CRMM, and Transoformer when classifying EEG data](https://github.com/valenxie/ECE-C247-Project)
 3. Game development using Rust: [2D](https://github.com/valenxie/cs181-unit2), [3D](https://github.com/valenxie/cs181-unit3)
 4. [My first IOS app for my high school CS class](https://github.com/valenxie/Stocklist)
